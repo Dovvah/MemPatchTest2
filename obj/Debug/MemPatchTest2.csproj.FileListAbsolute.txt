@@ -1,0 +1,6 @@
+C:\Users\Tim\source\repos\MemPatchTest2\MemPatchTest2\bin\Debug\MemPatchTest2.exe.config
+C:\Users\Tim\source\repos\MemPatchTest2\MemPatchTest2\bin\Debug\MemPatchTest2.exe
+C:\Users\Tim\source\repos\MemPatchTest2\MemPatchTest2\bin\Debug\MemPatchTest2.pdb
+C:\Users\Tim\source\repos\MemPatchTest2\MemPatchTest2\obj\Debug\MemPatchTest2.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\MemPatchTest2\MemPatchTest2\obj\Debug\MemPatchTest2.exe
+C:\Users\Tim\source\repos\MemPatchTest2\MemPatchTest2\obj\Debug\MemPatchTest2.pdb
